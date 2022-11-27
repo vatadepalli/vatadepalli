@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 #### Backend
 
-1. Node.js (express, nest.js, sequelize, typeormetc)
+1. Node.js (express, nest.js, sequelize, typeORM)
 2. Java (spring boot, spring data JPA, hibernate)
 3. Python (anaconda stack - numpy, pandas, etc)
 4. Ruby (APIs using ruby on rails, active record)
