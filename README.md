@@ -28,6 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 1. SQL - good expertise
 2. Postgres & Snowflake
+3. ORM - good understanding & hands-on.
 
 
 #### Cloud & Other
