@@ -1,4 +1,4 @@
-## Aditya 
+# Aditya 
 
 - 👋 Hi, I’m Aditya Tadepalli [@vatadepalli](https://twitter.com/vatadepalli)
 - 👀 I’m interested in working on interesting business ideas through software.
