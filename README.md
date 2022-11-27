@@ -1,3 +1,5 @@
+## Aditya 
+
 - 👋 Hi, I’m Aditya Tadepalli [@vatadepalli](https://twitter.com/vatadepalli)
 - 👀 I’m interested in working on interesting business ideas through software.
 - 🖥️ I’m currently working on developing a data analytics & business intelligence idea.
