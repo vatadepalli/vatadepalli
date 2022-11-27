@@ -11,3 +11,32 @@
 vatadepalli/vatadepalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Skills
+
+#### Backend
+
+1. Node.js (express, nest.js, sequelize, typeormetc)
+2. Java (spring boot, spring data JPA, hibernate)
+3. Python (anaconda stack - numpy, pandas, etc)
+4. Ruby (APIs using ruby on rails, active record)
+5. C++ (from my earlier life of programming microcontrollers)
+
+#### Data
+
+1. SQL - good expertise
+2. Postgres & Snowflake
+
+
+#### Cloud & Other
+
+1. CI/CD - Used git, github actions, circle-ci, travis, jenkins, blah, blah, blah... you name it.
+2. Docker & Kubernetes
+3. AWS & Azure Cloud
+4. Terraform
+
+
+#### FrontEnd
+
+1. Angular
+2. React - good expertise
