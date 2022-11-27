@@ -36,7 +36,8 @@ You can click the Preview link to take a look at your changes.
 1. CI/CD - Used git, github actions, circle-ci, travis, jenkins, blah, blah, blah... you name it.
 2. Docker & Kubernetes
 3. AWS & Azure Cloud
-4. Terraform
+4. Serverless & Event Driven Computing
+5. Terraform
 
 
 #### FrontEnd
