@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Aditya [@vatadepalli](https://twitter.com/vatadepalli)
 - 👀 I’m interested in working on interesting business ideas through software.
 - 🖥️ I’m currently working on an analytics & business intelligence idea.
-- 💞️ I’m looking to collaborate / consult on systems design, infrastructure as code, data analytics, business intelligence and any business idea that deals with a ton of data. 
+- 💞️ I’m open to collaborate / consult on systems design, infrastructure as code, data analytics, business intelligence and any business idea that deals with a ton of data. 
 - 📫 You can reach me at
     - Email - vatadepalli@hotmail.com
     - Linkedin - [linkedin.com/in/vatadepalli](https://www.linkedin.com/in/vatadepalli/)
