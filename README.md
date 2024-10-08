@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Aditya [@vatadepalli](https://twitter.com/vatadepalli)
 - I'm currently working as a Full Stack Engineer at Pattern
 - I have experience across the stack
-    - Frontend, Backend, Cloud Architecture / IaaC, Data Pipelines, Data Modelling, Building Databases
+    - Frontend, Backend, Cloud Architecture / IaaC, Data Pipelines, Data Modelling, Building Database Services.
     - Expertise in / love for - Cloud Architecture & Data Engineering
 - I'm language & tech agnostic. Can pickup anything quick. But have developed an soft spot for -
     - **Next.js**, **Python (FastAPI)**, **Streamlit**, **Airflow**, and the things around them.
